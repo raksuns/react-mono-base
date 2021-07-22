@@ -41,7 +41,7 @@
     "declaration": true
   },
   "include": [
-    "./src/**/*"
+    "./packages/rm-core/src/**/*"
   ],
   "exclude": [
     "node_modules",
