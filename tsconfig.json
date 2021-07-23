@@ -41,7 +41,7 @@
     "declaration": true
   },
   "include": [
-    "./packages/rm-core/src/**/*"
+    "./packages/mono-core/src/**/*"
   ],
   "exclude": [
     "node_modules",
