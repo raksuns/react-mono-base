@@ -22,6 +22,7 @@
     "@types/inflection": "^1.5.28",
     "fakerest": "^3.3.0",
     "fetch-mock": "~9.11.0",
+    "mono-material-ui": "^0.0.1",
     "proxy-polyfill": "^0.3.2",
     "react": "^17.0.2",
     "react-app-polyfill": "^2.0.0",
@@ -31,8 +32,8 @@
     "react-scripts": "^4.0.3"
   },
   "devDependencies": {
-    "@types/fetch-mock": "^7.3.5",
     "@types/classnames": "^2.3.1",
+    "@types/fetch-mock": "^7.3.5",
     "@types/jest": "^26.0.24",
     "@types/node": "^16.4.1",
     "@types/query-string": "~6.3.0",
